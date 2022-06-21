@@ -3,16 +3,16 @@ Welcome to my profile! I'm Ruy, Software Engineer from São Paulo, &#x1f1e7;&#x1
 
 Contact: [Linkedin](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/) | [Email](ricardo.rruy@hotmail.com)
 
-###### Things I Code With
-Ruby On Rails | JavaScript | 
-TypeScript 
-API Rest 
-GraphQL 
-Docker 
-CI/CD: Jenkins | GitHub Actions | CircleCI | 
-MongoDB | Redis | MySQL | ELK | RabbitMQ | Kafka | 
-AWS | Heroku 
-Some Libs and Frameworks: | React | Vue.js |
+#### Things I Code With
+* Ruby On Rails | JavaScript | 
+* TypeScript 
+* API Rest 
+* GraphQL 
+* Docker 
+* CI/CD: Jenkins | GitHub Actions | CircleCI | 
+* MongoDB | Redis | MySQL | ELK | RabbitMQ | Kafka | 
+* AWS | Heroku 
+* Some Libs and Frameworks: | React | Vue.js |
 
 <!--
 **rruy/rruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
