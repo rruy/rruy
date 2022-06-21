@@ -1,7 +1,7 @@
 ### Hello! Nice to see you here! I'm <a href=“https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/“>Ricardo Ruy</a> 👋
 
 Welcome to my profile!
-I'm Ruy, Software Engineer from São Paulo, Brasil ![brazil](https://user-images.githubusercontent.com/3150604/174694682-4a0865a6-f90f-4025-8398-68a25565f0fd.png)
+I'm Ruy, Software Engineer from São Paulo, Brasil ![brazil](https://user-images.githubusercontent.com/3150604/174694682-4a0865a6-f90f-4025-8398-68a25565f0fd.png| width=5))
 
 Contact: <a href=“https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/“>LinkedIn</a> | <a href=“ricardo.rruy@hotmail.com“>Email</a>
 
