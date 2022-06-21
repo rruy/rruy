@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Nice to see you here! I'm <a href=“https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/“>Ricardo Ruy</a> 👋
 
 <!--
 **rruy/rruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
