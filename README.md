@@ -1,21 +1,18 @@
-### Hello! Nice to see you here! I'm <a href=“https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/“>Ricardo Ruy</a> 👋
+## Hello! Nice to see you here! I'm [Ruy](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/)
+Welcome to my profile! I'm Ruy, Software Engineer from São Paulo, &#x1f1e7;&#x1f1f7;
 
-Welcome to my profile!
-I'm Ruy, Software Engineer from São Paulo, Brasil ![brazil](https://user-images.githubusercontent.com/3150604/174694682-4a0865a6-f90f-4025-8398-68a25565f0fd.png  =5x10))
+Contact: [Linkedin](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/) | [Email](ricardo.rruy@hotmail.com)
 
-Contact: <a href=“https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/“>LinkedIn</a> | <a href=“ricardo.rruy@hotmail.com“>Email</a>
-
-### Things I Code With
-Ruby On Rails | JavaScript | TypeScript
-API Rest
-GraphQL
-Docker
-CI/CD: Jenkins | GitHub Actions | CircleCI |
+###### Things I Code With
+Ruby On Rails | JavaScript | 
+TypeScript 
+API Rest 
+GraphQL 
+Docker 
+CI/CD: Jenkins | GitHub Actions | CircleCI | 
 MongoDB | Redis | MySQL | ELK | RabbitMQ | Kafka | 
-AWS | Heroku
-Some Libs and Frameworks:  | React | Express |
-
-
+AWS | Heroku 
+Some Libs and Frameworks: | React | Vue.js |
 
 <!--
 **rruy/rruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
