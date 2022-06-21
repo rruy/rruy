@@ -1,5 +1,5 @@
 ## Hello! Nice to see you here! I'm [Ruy](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/)
-Welcome to my profile! I'm Ruy, Software Engineer from São Paulo, &#x1f1e7;&#x1f1f7;
+Welcome to my profile! I'm Ruy, Software Engineer Specialist from São Paulo, &#x1f1e7;&#x1f1f7;
 
 Contact: [Linkedin](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/) | [Email](mailto:ricardo.rruy@hotmail.com)
 
