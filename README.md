@@ -4,7 +4,7 @@ Welcome to my profile! I'm Ruy, Software Engineer Specialist from São Paulo, &#
 Contact: [Linkedin](https://www.linkedin.com/in/ricardo-guinalia-ruy-18674467/) | [Email](mailto:ricardo.rruy@hotmail.com)
 
 #### Things I Code With
-* Ruby On Rails | JavaScript | 
+* Ruby On Rails | JavaScript 
 * TypeScript 
 * API Rest 
 * GraphQL 
